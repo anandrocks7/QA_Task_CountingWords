@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Testclass_Countwords">
+        <methods>
+          <include name="Test4_CaseInsensitive_with_Invalidwords"/>
+          <include name="Test3_CaseInsensitive_with_validwords"/>
+        </methods>
+      </class> <!-- Testclass_Countwords -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
