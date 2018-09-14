@@ -5,7 +5,7 @@ Created a Maven Project with TestNg Dependencies.
 Prgram File:  Prog_Countwords.java 
 Test Class:    Testclass_Countwords.java is located under "src/test/java/ countwords_package"
 
-# 4 Unit Test methods Included
+4 Unit Test methods Included
 
 To run:  Right click on "Testclass_Countwords.java"  select Run as "TestNg"
 
